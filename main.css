@@ -37,6 +37,20 @@ body {
     margin-top: 1rem;
 }
 
+.ulClass {
+    margin: 1rem 0 0 1rem;
+
+    font-size: 12pt;
+}
+
+.listItem {
+    margin-bottom: 0.2rem;
+}
+
+.trash {
+    margin-left: 0.5rem;
+}
+
 main {
     display: flex;
     flex-direction: column;
